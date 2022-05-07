@@ -3,6 +3,7 @@ module.exports = {
     title: `My Blog`,
     description: `A Blog to learn Gatsby using the William Justem Course`,
     author: `@masp`,
+    position: `Programador metido a besta`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
