@@ -10,17 +10,6 @@ const IndexPage = () => (
     <Seo title="Home" />
     <h1>Home</h1>
 
-    <ul>
-      <li> 
-        <Link to="/" activeStyle={ {color:"red"} }>Home</Link>
-      </li>
-
-      <li>
-        <Link to="/about">About Gatsby Link</Link>
-      </li>
-    </ul>
-
-
   </Layout>
 )
 
